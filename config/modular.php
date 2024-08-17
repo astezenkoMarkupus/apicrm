@@ -12,7 +12,7 @@ return [
     ],
     'modules' => [
         'Admin' => ['User'],
-        'Pub' => []
+        'Pub' => ['Auth']
     ]
 ];
 
